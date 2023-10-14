@@ -1,2 +1,2 @@
-# opentofo-sample-docker
-Sample Opentofu Script
+# opentofu-sample-docker
+Sample Opentofu Script using docker provider in windows
